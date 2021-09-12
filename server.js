@@ -8,4 +8,4 @@ http.createServer(function (req, res) {
     
     fileServer.serve(req, res);
 
-}).listen(5000);
+}).listen(process.env.PORT||5000);
