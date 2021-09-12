@@ -1,0 +1,23 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "this is a assignment for HTmedia",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweta0327/assignment.git"
+  },
+  "author": "sweta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sweta0327/assignment/issues"
+  },
+  "homepage": "https://github.com/sweta0327/assignment#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
